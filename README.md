@@ -7,7 +7,7 @@ This repository contains an end-to-end data science project designed to predict 
 ### 🔗 GitHub Repository
 
 Visit the complete codebase on GitHub:
-`https://github.com/<your-username>/HR-Employee-Attrition-Prediction.git`
+https://github.com/<your-username>/HR-Employee-Attrition-Prediction.git
 
 -----
 
@@ -48,7 +48,7 @@ project-folder/
 To get this project up and running on your local machine, follow these steps:
 
 1.  Clone the repository:
-    `git clone https://github.com/<your-username>/HR-Employee-Attrition-Prediction.git`
+    git clone https://github.com/<your-username>/HR-Employee-Attrition-Prediction.git
 2.  Navigate into the project directory:
     `cd HR-Employee-Attrition-Prediction`
 3.  Install all required Python dependencies:
