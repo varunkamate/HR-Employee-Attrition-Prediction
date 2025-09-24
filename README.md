@@ -184,3 +184,15 @@ python# Main Features
 <div align="center">
 MetricValueBenchmarkROC-AUC0.7858> 0.75 ✅Precision0.8462> 0.80 ✅Recall0.6429> 0.60 ✅F1-Score0.7312> 0.70 ✅Accuracy0.8776> 0.85 ✅
 </div>
+
+📞 Contact & Support
+<div align="center">
+🌟 Star this repo if you find it helpful!
+📧 Email: varunkamate081@gmail.com
+💼 LinkedIn: linkedin.com/in/varun-kamate-5a3397259
+</div>
+
+<div align="center">
+Built with ❤️ for HR Analytics and Employee Retention
+Last updated: September 2025
+</div>
