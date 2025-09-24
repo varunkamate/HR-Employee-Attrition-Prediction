@@ -1,6 +1,10 @@
-## 📈 HR Employee Attrition Prediction & Dashboard
-
+📈 HR Employee Attrition Prediction & Dashboard
 This repository contains an end-to-end data science project designed to predict employee attrition using machine learning. It includes a comprehensive analysis, a trained predictive model, and an interactive web application for an immersive user experience.
+-----
+
+🔗 App Live Link
+Visit the streamlit app:
+https://github.com/<your-username>/HR-Employee-Attrition-Prediction.git
 
 -----
 
