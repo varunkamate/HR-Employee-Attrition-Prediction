@@ -70,8 +70,8 @@ The project provides a comprehensive solution for HR attrition prediction, inclu
 
 ### 🙋‍♂️ Author
 
-\<Varun_Kamate\>
+Varun_Kamate
 
-GitHub: `https://github.com/varunkamate`
+GitHub: https://github.com/varunkamate
 
-LinkedIn: `linkedin.com/in/varun-kamate-5a3397259`
+LinkedIn: linkedin.com/in/varun-kamate-5a3397259
