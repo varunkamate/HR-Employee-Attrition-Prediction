@@ -74,4 +74,4 @@ Varun_Kamate
 
 GitHub: https://github.com/varunkamate
 
-LinkedIn: linkedin.com/in/varun-kamate-5a3397259
+LinkedIn: [linkedin.com/in/varun-kamate-5a3397259](https://www.linkedin.com/in/varun-kamate-5a3397259)
