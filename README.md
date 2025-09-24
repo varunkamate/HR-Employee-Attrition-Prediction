@@ -4,13 +4,6 @@ This repository contains an end-to-end data science project designed to predict 
 
 -----
 
-### 🔗 GitHub Repository
-
-Visit the complete codebase on GitHub:
-https://github.com/<your-username>/HR-Employee-Attrition-Prediction.git
-
------
-
 ### 📌 Project Objectives
 
   * Conduct in-depth Exploratory Data Analysis (EDA) on the HR attrition dataset.
