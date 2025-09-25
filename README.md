@@ -2,6 +2,11 @@
 
 This repository contains an end-to-end data science project designed to predict employee attrition using machine learning. It includes a comprehensive analysis, a trained predictive model, and an interactive web application for an immersive user experience.
 
+=========================================================
+
+App Live Link:==> https://hr-employee-attrition-prediction-faisas2bkdqyy3fdqkrofy.streamlit.app/
+
+=========================================================
 
 📌 Project Objectives
 Conduct in-depth Exploratory Data Analysis (EDA) on the HR attrition dataset.
