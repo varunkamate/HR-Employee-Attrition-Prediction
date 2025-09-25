@@ -32,9 +32,6 @@ project-folder/
 🚀 How to Run Locally
 To get this project up and running on your local machine, follow these steps:
 
-Clone the repository:
-git clone https://github.com/<your-username>/HR-Employee-Attrition-Prediction.git
-
 Navigate into the project directory:
 cd HR-Employee-Attrition-Prediction
 
